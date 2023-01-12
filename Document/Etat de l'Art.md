@@ -9,4 +9,4 @@ Sources :
 - CHALLENGE UTAC VEHICULES DU FUTUR – REGLEMENT - REVISION V1
 - https://github.com/sound0ff/Robotique-V2X-UTAC-Developpement-d-un-nouveau-mode-conduite-dans-un-convoi-autonome/
 - Rapport PFE 26 Challenge UTAC CERAM du 2021/02/05
-
+- https://homepages.laas.fr/ostasse/Teaching/ROS/rosintro.pdf
